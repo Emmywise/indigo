@@ -17,7 +17,7 @@ What things you need to install the software.
 After cloning the application, you need to install it's dependencies. 
 
 ```
-$ cd e-commerce-laravel-vue
+$ cd indigo
 $ composer install
 ```
 
