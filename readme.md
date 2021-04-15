@@ -43,10 +43,6 @@ $ composer install
 
   ```$ php artisan passport:install```
 
-- Seed Database
-
-  ```$ php artisan db:seed```
-
 
 - Install node modules
 
